@@ -1,0 +1,10 @@
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\bin\Debug\Tez_Yazım_Kontrol_Giris.exe.config
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\bin\Debug\Tez_Yazım_Kontrol_Giris.exe
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\bin\Debug\Tez_Yazım_Kontrol_Giris.pdb
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.csprojAssemblyReference.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.Frm_Login.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.Properties.Resources.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.csproj.GenerateResource.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.csproj.CoreCompileInputs.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.exe
+C:\Users\Berat BAKAN\Source\Repos\Tez_Yazım_Kontrol_Giris\Tez_Yazım_Kontrol_Giris\obj\Debug\Tez_Yazım_Kontrol_Giris.pdb
